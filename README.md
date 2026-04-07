@@ -1,5 +1,3 @@
-# README
-
 ## Player Movement System
 
 A simple object-oriented Python implementation of a character movement system using abstract base classes and inheritance.
